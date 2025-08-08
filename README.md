@@ -15,6 +15,7 @@ This project enables users to **connect their Slack workspace**, **send instant 
 
 ## 📁 Folder Structure
 
+```
 slack-connect-app/
 ├── backend/
 │ ├── auth.ts # Handles Slack OAuth
@@ -34,7 +35,7 @@ slack-connect-app/
 │ └── vite.config.ts
 ├── db.sqlite # SQLite database file
 ├── README.md
-
+```
 
 <img width="1877" height="872" alt="image" src="https://github.com/user-attachments/assets/18d2d189-71b7-43b0-9e44-eedc06af5321" />
 <img width="1893" height="850" alt="image" src="https://github.com/user-attachments/assets/392c3787-eac8-4add-9a90-c10915421527" />
